@@ -1,5 +1,7 @@
 # Emailclient
 
+https://emailclient-rust.vercel.app/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
 
 ## Development server
